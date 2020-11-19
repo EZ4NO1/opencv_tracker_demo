@@ -1,0 +1,10 @@
+# ninja log v5
+12	1502	627390836	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	6f47809092350f40
+1504	4122	627390839	CMakeProject1/CMakeProject1.exe	47c04345b83063ca
+0	882	627391081	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	425eec98472fe173
+883	1388	627391081	CMakeProject1/CMakeProject1.exe	23725c61c55534a2
+0	1368	627391398	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	425eec98472fe173
+1369	2052	627391398	CMakeProject1/CMakeProject1.exe	23725c61c55534a2
+1	1170	627391634	CMakeProject1/CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	425eec98472fe173
+1171	1831	627391635	CMakeProject1/CMakeProject1.exe	23725c61c55534a2
+1	348	627391846	build.ninja	3d0d4b76f79d8e54
